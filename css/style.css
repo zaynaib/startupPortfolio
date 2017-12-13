@@ -10,8 +10,9 @@ a{
 .works{
 	width:180px;
 }
-#contact{
-	float:left;
+#socialMenu{
+    margin:auto;
+	
 }
 
 section #about{
