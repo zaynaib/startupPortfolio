@@ -1,27 +1,21 @@
-a{
-    color:navajowhite;
-}
 
-#profileImg{
-    border-radius: 50%;
-    width: 280px;
-}
-
-.works{
-	width:180px;
-}
-#socialMenu{
-    margin:auto;
-	
-}
-
-#about{
-background-color:#2c3e50;
-}
-
-.portfolio .portfolio-item .portfolio-item-caption{
-    background-color: rgba(70,88,156,.9);
+.row{
+    display:flex;
+    flex-direction: row;
+    flex-wrap:wrap;
+    justify-content: space-between;
+    padding:50px 0 100px;
 
 }
 
+.work{
+    border-style: solid;
+    height: 300px;
+    width:400px;
+}
 
+.work-img{
+    max-width: 100%;
+    min-height: 100%;
+
+}
