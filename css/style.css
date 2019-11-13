@@ -19,59 +19,9 @@ a{
 background-color:#2c3e50;
 }
 
+.portfolio .portfolio-item .portfolio-item-caption{
+    background-color: rgba(70,88,156,.9);
 
-
-
-/* Small devices (landscape phones, 576px and up)*/
-@media (min-width: 576px) { ... }
-
-/*Medium devices (tablets, 768px and up) */
-@media (min-width: 768px) { ... }
-
-/*Large devices (desktops, 992px and up)*/
-@media (min-width: 992px) { ... }
-
-/*Extra large devices (large desktops, 1200px and up)*/
-@media (min-width: 1200px) { ... }
-
-/*
-
-h2, h3{
-    text-align:center;
-    margin: 25px 50px;
 }
 
-h1
-{
-    
-    margin:0;
-    padding:0;
-    display:inline;
-}
 
-ul#menu
-{
-    display:inline;
-    border:solid;
-    border-width:1px;
-    border-bottom: 1px #5C87B2 solid;
-    padding: 0 0 2px;
-    margin: 0;
-    text-align: right;
-}
-
-ul#menu li
-{
-    display: inline;
-    list-style: none;
-}
-
-ul#menu li#greeting
-{
-    padding: 10px 20px;
-    font-weight: bold;
-    text-decoration: none;
-    line-height: 2.8em;
-    color: #fff;
-}
-*/
